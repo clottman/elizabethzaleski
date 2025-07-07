@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include 'head.njk' %}
+</head>
+<body>
+  <header class="page-header">
+    <a href="/" class="page-header__logo" title="Go home">
+      <img src="/assets/avatar-elizabeth.png" alt="avatar of a person with long wavy brown hair and a blue sweater" width="48">
+    </a>
+
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about">About Me</a>
+      <a href="/notes">Notes</a>
+    </nav>
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  
+  <footer class="page-footer">
+    <small>Copyright Elizabeth Zaleski</small>
+  </footer>
+</body>
+</html>

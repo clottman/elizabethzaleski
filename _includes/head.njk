@@ -1,0 +1,35 @@
+{% set siteDesc = "TODO some text here" %}
+
+{% set currentTitle %}
+  {% if title %}
+    {{ title }}
+  {% else %}
+    Elizabeth Zaleski
+  {% endif %}
+{% endset %}
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+
+<title>{{ currentTitle }}</title>
+
+<!-- <meta name="description" content="{{ siteDesc }}"> -->
+
+<meta property="og:title" content="{ currentTitle }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ siteUrl }}">
+<meta property="og:image" content="/assets/avatar.png">
+<!-- <meta property="og:description" content="{{ siteDesc }}"> -->
+
+<link rel="canonical" href="{{ siteUrl }}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/assets/normalize.css">
+<link rel="stylesheet" href="/assets/style.css">
