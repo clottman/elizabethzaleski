@@ -1,6 +1,8 @@
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy('assets');
+  eleventyConfig.addPassthroughCopy("admin");
+
   eleventyConfig.setUseGitIgnore(false);
 
   return {
