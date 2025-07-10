@@ -7,6 +7,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
 
   return {
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
     dir: {
       input: "./",
       output: "_site",
