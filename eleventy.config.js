@@ -1,9 +1,15 @@
+const eleventyAutoCacheBuster = require("eleventy-auto-cache-buster");
+
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(eleventyAutoCacheBuster);
 
   eleventyConfig.addPassthroughCopy('assets');
   eleventyConfig.setUseGitIgnore(false);
 
   return {
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
     dir: {
       input: "./",
       output: "_site",
