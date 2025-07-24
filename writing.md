@@ -7,7 +7,7 @@ layout: default.njk
 
 I've published in the following places
 
-- a magazine
+- <i>The Missouri Review</i>
 - a journal
 - a poetry collection
 
