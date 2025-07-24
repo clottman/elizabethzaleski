@@ -4,6 +4,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyAutoCacheBuster);
 
   eleventyConfig.addPassthroughCopy('assets');
+  eleventyConfig.addPassthroughCopy("admin");
+
   eleventyConfig.setUseGitIgnore(false);
 
   return {

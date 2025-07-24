@@ -1,11 +1,9 @@
-{% set siteDesc = "TODO some text here" %}
-
 {% set currentTitle %}
-  {% if title %}
-    {{ title }}
-  {% else %}
-    Elizabeth Zaleski
-  {% endif %}
+  {%- if title -%}
+    {{title}}
+  {%- else -%}
+    {{info.title}}
+  {%- endif -%}
 {% endset %}
 
 
@@ -15,15 +13,15 @@
 
 <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
 
-<title>{{ currentTitle }}</title>
+<title>{{currentTitle}}</title>
 
-<!-- <meta name="description" content="{{ siteDesc }}"> -->
+<meta name="description" content="{{info.description}}">
 
-<meta property="og:title" content="{ currentTitle }}">
+<meta property="og:title" content="{{currentTitle}}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ siteUrl }}">
 <meta property="og:image" content="/assets/avatar.png">
-<!-- <meta property="og:description" content="{{ siteDesc }}"> -->
+<meta property="og:description" content="{{info.description}}">
 
 <link rel="canonical" href="{{ siteUrl }}">
 

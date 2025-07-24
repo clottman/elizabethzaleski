@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: jduss4/elizabethzaleski
+  branch: main
+  site_domain: https://mysite.com
+  base_url: https://mysite.com
+  auth_endpoint: /api/auth
+media_folder: assets/cms
+public_folder: assets/cms/
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+    - name: 'info'
+      label: 'Info'
+      identifier_field: 'name'
+      file: "./_data/info.json"
+      fields:
+        - { label: 'Main Heading', name: 'title', widget: 'string' }
+        - { label: 'Site description', name: 'description', widget: 'string' }
+        - { label: 'Text Under Main Heading', name: 'under_heading_text', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-two", "heading-three", "heading-four", "quote", "bulleted-list", "numbered-list"] }
+        - { label: 'About Site Heading', name: 'about_site_heading', widget: 'string' }
+        - { label: 'About Site Body', name: 'about_site_body', widget: 'markdown', buttons: ["bold", "italic", "code", "link", "heading-two", "heading-three", "heading-four", "quote", "bulleted-list", "numbered-list"] }
