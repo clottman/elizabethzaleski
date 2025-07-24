@@ -5,10 +5,10 @@ layout: default.njk
 
 # Writings by Elizabeth
 
-Some publications
+Some publications:
 
-- <i>The Missouri Review</i>
-- <i>The Normal School</i>
+- "Hung Up" online at<i>The Missouri Review</i>
+- "The Trouble with Loving Poets"<i>Hippocampus</i>
 - "Take Your Medicine," a graphic essay about antidepressants at <i>The Normal School</i>
 
-I also am the editor of <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>.
+I also am the curator of the <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>.
