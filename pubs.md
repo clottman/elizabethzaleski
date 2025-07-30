@@ -22,4 +22,11 @@ layout: default.njk
 
 # Other projects
 
-- <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>: I've somehow managed to read the majority of the Western canon (including all Charles Dickens's novels, if you count audiobooks), but unfortunately, I didn't start paying attention to the really important stuff, namely passages about flatulence, until I was approaching middle age. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and hopefully, with your help, to continue adding entries forever.
+- <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>: I've somehow managed to read the majority of the Western canon (including all Charles Dickens's novels, if you count audiobooks), but unfortunately, I didn't start paying attention to the really important stuff, namely passages about flatulence, until I was approaching middle age. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and hopefully, with your help, continue adding entries forever.
+- The Low Set, a band I was in when I lived in Lincoln, Nebraska
+- Big Dickens List. I thought it would be funny to buy the domain name bigdickenslist.com, so I did. My goal was to eventually create and publish Dickens-themed listicles, but part of the problem with Dickens is by the time you've finished the fifteenth novel, it's hard to remember what happened in the previous fourteen.
+
+# Free ideas
+
+# Bonus material
+This section didn't make the final cut for "All the Dead Dogs," but I still like it a lot, so here you go: 
