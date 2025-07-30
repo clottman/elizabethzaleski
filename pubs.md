@@ -23,4 +23,4 @@ layout: default.njk
 
 # Other projects
 
-- <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>I've read, like, the majority of the Western canon (including all Charles Dickens's novels), but unfortunately, I didn't start paying attention to the really important stuff, namely passages about flatulence, until I was approaching middle age. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and hopefully, with your help, to continue adding entries forever.
+- <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a> I've read, like, the majority of the Western canon (including all Charles Dickens's novels), but unfortunately, I didn't start paying attention to the really important stuff, namely passages about flatulence, until I was approaching middle age. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and hopefully, with your help, to continue adding entries forever.
