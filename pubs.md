@@ -13,4 +13,4 @@ layout: default.njk
 
 # Other projects
 
-I've read, like, the majority of the Western canon (including all the novels of Charles Dickens), but unfortunately for me, I didn't start paying attention to the really important stuff, namely passages about flatulence, until I was approaching middle age. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and to hopefully, with your help, add to it forever. Check it out: <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>.
+I've read, like, the majority of the Western canon (including all Charles Dickens's novels), but unfortunately, I didn't start paying attention to the really important stuff, namely passages about flatulence, until I was approaching middle age. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and to hopefully, with your help, add more entries forever. Check it out: <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>.
