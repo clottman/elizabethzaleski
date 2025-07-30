@@ -24,7 +24,7 @@ layout: default.njk
 
 - <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>: I've somehow managed to read the majority of the Western canon (including all Charles Dickens's novels, if you count audiobooks), but unfortunately, I didn't start paying attention to the really important stuff, namely passages about flatulence, until I was approaching middle age. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and hopefully, with your help, continue adding entries forever.
 - The Low Set, a band I was in when I lived in Lincoln, Nebraska
-- Big Dickens List. I thought it would be funny to buy the domain name bigdickenslist.com, so I did. My goal was to eventually create and publish Dickens-themed listicles, but part of the problem with Dickens is by the time you've finished the fifteenth novel, it's hard to remember what happened in the previous fourteen.
+- Big Dickens List. I thought it would be funny to buy the domain name bigdickenslist.com, so I did. My goal was to create and publish Dickens-themed listicles, but part of the problem with Dickens is that by the time you've finished the fifteenth novel, it's hard to remember what happened in the previous fourteen.
 
 # Free ideas
 
