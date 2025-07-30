@@ -8,11 +8,11 @@ layout: default.njk
 - "<a href="https://missourireview.com/hung-up-by-elizabeth-zaleski/">Hung Up</a>," originally published at <i> The Missouri Review</i>, where it was also a 2024 Editors' Prize runner-up, which is possibly the highest award nearly conferred on an essay about penises
 - "<a href="https://hippocampusmagazine.com/2017/02/the-trouble-with-loving-poets-by-elizabeth-zaleski/">The Trouble with Loving Poets</a>," originally published at <i>Hippocampus</i>
 - "<a href="https://www.thenormalschool.com/blog/2018/9/17/take-your-medicine-by-elizabeth-zaleski-illustrations-by-kevin-abt-chad-miller">Take Your Medicine</a>," published at <i>The Normal School</i>. Because my writing persona is like Allie Brosh with half the talent (I cannot draw) and Cheryl Strayed with half the fortitude (I overheat easily), this graphic essay, about antidepressants, contains illustrations drawn by people who are not me.
-- A thing on VIDA about writing about moms, but it seems that site is dead.
+- A thing on VIDA about writing about moms, but it seems that site is dead
 
 # Print publications
 
-- "Moving: In Three Parts," <i>Saranac Review</i>
+- "Moving, in Three Parts," <i>Saranac Review</i> 12
 - "Vegetable Psychology, Lovesick Astrology," <i>Harpur Palate</i> 15.1
 
 # Prizes
