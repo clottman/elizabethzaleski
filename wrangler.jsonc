@@ -1,0 +1,9 @@
+{
+  "name": "elizabethzaleski",
+  "compatibility_date": "2025-05-05",
+  "assets": {
+    "directory": "_site",
+    "not_found_handling": "404-page",
+  },
+  "routes": [{ "pattern": "elizabethzaleski.com", "custom_domain": true }],
+}

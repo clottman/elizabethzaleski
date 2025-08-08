@@ -4,8 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve"
+    "11ty:build": "npx @11ty/eleventy",
+    "11ty:watch": "npx @11ty/eleventy --watch --quiet --ignore-initial",
+    "11ty:benchmark": "DEBUG=Eleventy:Benchmark* npm run build",
+    "build": "11ty:build",
+    "util:rimraf": "npx rimraf _site",
+    "util:killport": "npx kill-port --port 8787",
+    "start": "npm-run-all util:rimraf util:killport 11ty:build --parallel 11ty:watch wrangler:dev",
+    "wrangler:dev": "npx wrangler dev --live-reload",
+    "wrangler:deploy": "npx wrangler deploy"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +20,10 @@
   "type": "commonjs",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "eleventy-auto-cache-buster": "^0.8.1"
+    "eleventy-auto-cache-buster": "^0.8.1",
+    "npm-run-all": "^4.1.5"
+  },
+  "devDependencies": {
+    "wrangler": "^4.28.1"
   }
 }
