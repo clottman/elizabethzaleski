@@ -7,7 +7,7 @@
     "11ty:build": "npx @11ty/eleventy",
     "11ty:watch": "npx @11ty/eleventy --watch --quiet --ignore-initial",
     "11ty:benchmark": "DEBUG=Eleventy:Benchmark* npm run build",
-    "build": "11ty:build",
+    "build": "npm run 11ty:build",
     "util:rimraf": "npx rimraf _site",
     "util:killport": "npx kill-port --port 8787",
     "start": "npm-run-all util:rimraf util:killport 11ty:build --parallel 11ty:watch wrangler:dev",
