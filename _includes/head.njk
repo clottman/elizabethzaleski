@@ -1,8 +1,10 @@
+{% set siteDesc = "Author" %}
+
 {% set currentTitle %}
   {%- if title -%}
     {{title}}
   {%- else -%}
-    {{Elizabeth Zaleski}}
+    Elizabeth Zaleski
   {%- endif -%}
 {% endset %}
 
@@ -15,13 +17,13 @@
 
 <title>{{currentTitle}}</title>
 
-<meta name="description" content="Author">
+<meta name="description" content="{{siteDesc}}">
 
 <meta property="og:title" content="{{currentTitle}}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://elizabethzaleski.com">
 <meta property="og:image" content="/assets/avatar.png">
-<!-- <meta property="og:description" content="{{siteDesc}}"> -->
+<meta property="og:description" content="{{siteDesc}}">
 
 <link rel="canonical" href="https://elizabethzaleski.com">
 
