@@ -5,6 +5,6 @@ layout: default.njk
 
 # Contact me
 
- contact@elizabethzaleski.com
+ Email: contact@elizabethzaleski.com
 
- Also on Bluesky @GreatFartsofLiterature
+ I'm also on Bluesky @GreatFartsofLiterature
