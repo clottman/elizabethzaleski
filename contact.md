@@ -3,8 +3,10 @@ title: Contact
 layout: default.njk
 ---
 
-# Contact me
+# Contact
 
  Email: contact@elizabethzaleski.com
 
  I'm also on Bluesky @GreatFartsofLiterature
+
+# Events
