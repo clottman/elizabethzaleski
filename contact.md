@@ -10,4 +10,4 @@ layout: default.njk
  I'm also on Bluesky @GreatFartsofLiterature
 
 # Events
-![author photo](assets/images/2025Elizabeth02Crop.jpg)
+!(assets/images/2025Elizabeth02Crop.jpg)
