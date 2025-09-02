@@ -22,7 +22,7 @@ layout: default.njk
 
 # Other projects
 
-- <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>: Only after having already read the majority of the Western canon did I start paying attention to the really important stuff, namely passages about flatulence. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and hopefully, with your help, continue adding entries forever.
+- <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>: It was only after I'd already read the majority of the Western canon that I started paying attention to the really important stuff, namely passages about flatulence. With my friend Cassey Lottman, I have created a database to catalog the farts I can still remember and hopefully, with your help, continue adding entries forever.
 - The Low Set, a band I was in when I lived in Lincoln, Nebraska
 - Big Dickens List. I bought the domain name bigdickenslist.com with the goal of creating and publishing Dickens-themed listicles, but part of the problem with Dickens is that by the time you've finished the fifteenth novel, it's hard to remember what happened in the previous fourteen. Maybe someday it will turn into something.
 
