@@ -5,7 +5,7 @@ layout: default.njk
 
 # Hello
 
-This is a website for Elizabeth and her new book!
+This is a website for Elizabeth and her new book! It is currently under construction.
 
 <figure class="image">
   <img src="/assets/images/elizabeth.jpg" alt="Black and white photograph of Elizabeth Zaleski"/>
