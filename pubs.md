@@ -30,4 +30,4 @@ layout: default.njk
 tk
 
 # Bonus material
-Do you want to read even **more** of my thoughts about dogs? This section didn't make the final cut for "All the Dead Dogs," but it still entertains me:
+Do you want to read even **more** of my thoughts about dogs? This section didn't make the final cut for "All the Dead Dogs," but Karina deserves an audience:
