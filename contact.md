@@ -10,4 +10,6 @@ layout: default.njk
  I'm also on Bluesky @GreatFartsofLiterature
 
 # Events
-![authorphoto](assets/images/2025Elizabeth02Crop.jpg)
+<figure class="image">
+  <img src="2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
+  <figcaption>Author photo by Lily Glass</figcaption>
