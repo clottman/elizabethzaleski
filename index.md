@@ -11,5 +11,3 @@ Elizabeth Zaleski is the author of *The Trouble with Loving Poets and Other Essa
   <img src="/assets/images/2025Elizabeth17BW.jpg-2" alt="Black and white photograph of Elizabeth Zaleski" width="300" height="449"/>
   <figcaption>Author photo by Lily Glass</figcaption>
 </figure>
-
-I also am the editor of <a href="https://greatfartsofliterature.com/">Great Farts of Literature</a>.
