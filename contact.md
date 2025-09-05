@@ -11,5 +11,6 @@ layout: default.njk
 
 # Events
 <figure class="image">
-  <img src="2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
-  <figcaption>Author photo by Lily Glass</figcaption>
+  <img src="/assets/images/2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
+ </figure>
+ <figcaption>Author photo by Lily Glass</figcaption>
