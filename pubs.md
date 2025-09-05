@@ -36,14 +36,20 @@ Do you want to read even **more** of my thoughts about dogs? This section didn't
 Dogs have been living and working alongside humans for thousands of years, and our modern American version of dogdom is just one of many at play across the globe. In Cusco, Peru, dog ownership is casual, and huge packs of friendly stray dogs are the rule. As strays are sometimes poisoned, city dwellers have a custom of adorning their pets not with a collar but a shirt. When I visited Peru, the dogs of Cusco were endlessly fascinating to me because they were ubiquitous, untethered, and evidently quite happy. Of course this situation is not all roses, but Coppinger suggests these loosely affiliated, scavenging packs, living somewhat at the edges of human society, are the true modern version of the primordial dog. He thinks it unlikely that humans nabbed and restrained wolves and subsequently pacified them over generations. Rather, wolves with short flight tolerances beget wolves with shorter flight tolerances and over time domesticated themselves at the edge of our midden heap.
 
 <br>
+
 <insert figure 10>
 My favorite shirt-wearing Cusco dog. Photograph by the author.
 
+<br>
+
 My friend Kelsey, an ecologist, agrees. She lived in Cusco for several years and fell in love with a dog at her field site outside the city. When she first encountered Karina in the mountains, she observed that Andean dogs ate copious amounts of feces, primarily the droppings of baby alpacas, which are rich in excreted milk proteins. But Kelsey also had difficulty keeping Karina from digging up human latrines, which earned her a nickname, bestowed affectionately: Boca Sucia.
+
+<br>
 <insert figure 11>
 A Peruvian dog stands in a river of blood downstream from a slaughterhouse. Photograph by Kelsey Reider.
 <insert figure 12>
 
 <br>
+
 Boca Sucia on the prowl. Photograph by Kelsey Reider.
 Once, a woman I knew only tangentially, who owned a few huskies, passed a Chihuahua on the sidewalk. After the owner was out of earshot, she quipped, “That’s a cruel thing to do to a wolf.” Maybe, maybe not. The wolf, it seems, may have been complicit in its own transformation, with results neither human nor animal could have dreamed. The story of the trash dog can be read in multiple ways, in ways that demean dogs or in ways that unsettle the truism “There’s no such thing as bad dogs, only bad dog owners,” which reduces dogs to utter behaviorism. If dogs played a part in their own domestication, Donna Haraway argues, this fact has consequences for our notions of dominion, our Western belief that humans subdued animals in unilateral fashion. A different story reshuffles agency, casts multiple actors in these events: cue Karina and her shit-eating grin.
