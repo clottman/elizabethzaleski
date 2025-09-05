@@ -8,7 +8,7 @@ layout: default.njk
 This is a website for Elizabeth and her new book! It is currently under construction.
 
 <figure class="image">
-  <img src="/assets/images/2025Elizabeth17BW.jpg-2" alt="Black and white photograph of Elizabeth Zaleski" width="100"/>
+  <img src="/assets/images/2025Elizabeth17BW.jpg-2" alt="Black and white photograph of Elizabeth Zaleski" width="1000"/>
   <figcaption>Author photo by Lily Glass</figcaption>
 </figure>
 
