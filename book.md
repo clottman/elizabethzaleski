@@ -22,6 +22,9 @@ Funny, intimate, and candid, <i>The Trouble with Loving Poets and Other Essays o
 As Zaleski writes, “If you’ll bear with me, we’re going to get a bit technical. And then, I promise, it will all start to matter.”
 
 # But is it any good?
+
 Yes. It's better than most books.
 
-# Why would I want to read a book about failure? Isn't that depressing?
+# Heaps of praise:
+
+Whether discussing linguistics or penis size, Zaleski is northeast Ohio’s answer to Samantha Irby, and her regional reflections on gender, family, and rural America have national importance. While most literary “bravery” depends on repression in order to question it, Zaleski starts outside cultural parameters and heads even farther away from them, dismantling the idea that intimate personal revelation is brave. Zaleski’s essays—and their genius wit—dare the genre to stop implicitly upholding norms and move instead toward actual liberation. This is the collection of groundbreaking feminist humor called for by our times. —Allison Pitinii Davis, author of *Line Study of a Motel Clerk*
