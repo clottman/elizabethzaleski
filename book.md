@@ -23,6 +23,6 @@ Funny, intimate, and candid, <i>The Trouble with Loving Poets and Other Essays o
 As Zaleski writes, “If you’ll bear with me, we’re going to get a bit technical. And then, I promise, it will all start to matter.”
 
 # But is it any good?
-Yes, it's better than most books.
+Yes. It's better than most books.
 
 # Why would I want to read a book about failure? Isn't that depressing?
