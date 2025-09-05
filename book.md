@@ -6,7 +6,7 @@ layout: default.njk
 # My book
 
 <figure class="image">
-  <img src="/assets/images/trouble-book.jpg" alt="Black and white photograph of Elizabeth Zaleski"/>
+  <img src="/assets/images/trouble-book.jpg" alt="Book cover for The Trouble with Loving Poets and Other Essays on Failure"/>
 </figure>
 
 You can preorder it directly from my publisher [here](https://beltpublishing.com/products/the-trouble-with-loving-poets)
