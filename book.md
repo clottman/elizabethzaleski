@@ -3,7 +3,7 @@ title: My book
 layout: default.njk
 ---
 
-
+<br>
 
 <figure class="image">
   <img src="/assets/images/trouble-book.jpg" alt="Book cover for The Trouble with Loving Poets and Other Essays on Failure" width="400" height="557"/>
