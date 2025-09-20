@@ -7,7 +7,7 @@ layout: default.njk
 
  Email: contact@elizabethzaleski.com
 
- I'm also on Bluesky @GreatFartsofLiterature
+ I'm also on Bluesky @GreatFartsofLit
 
 # Events
 <figure class="image">
