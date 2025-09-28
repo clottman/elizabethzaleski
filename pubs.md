@@ -36,6 +36,7 @@ Do you want to read even **more** of my thoughts about dogs? This section didn't
 Dogs have been living and working alongside humans for thousands of years, and our modern American version of dogdom is just one of many at play across the globe. In Cusco, Peru, dog ownership is casual, and huge packs of friendly stray dogs are the rule. As strays are sometimes poisoned, city dwellers have a custom of adorning their pets not with a collar but a shirt. When I visited Peru, the dogs of Cusco were endlessly fascinating to me because they were ubiquitous, untethered, and evidently quite happy. Of course this situation is not all roses, but Coppinger suggests these loosely affiliated, scavenging packs, living somewhat at the edges of human society, are the true modern version of the primordial dog. He thinks it unlikely that humans nabbed and restrained wolves and subsequently pacified them over generations. Rather, wolves with short flight tolerances beget wolves with shorter flight tolerances and over time domesticated themselves at the edge of our midden heap.
 
 <br>
+
 <br>
 
 <figure class="image">
