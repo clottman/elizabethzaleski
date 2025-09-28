@@ -37,7 +37,7 @@ Dogs have been living and working alongside humans for thousands of years, and o
 
 <br>
 <figure class="image">
-  <img src="/assets/images/fig 10. Cusco shirt dog.jpg" alt="Color photograph of Elizabeth Zaleski"/>
+  <img src="/assets/images/fig 10. Cusco shirt dog.jpg" alt="Color photograph of Elizabeth Zaleski" width="500"/>
  </figure>
  <figcaption>My favorite shirt-wearing Cusco dog. Photograph by the author.</figcaption>
 
