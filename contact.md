@@ -10,6 +10,7 @@ layout: default.njk
  I'm also on Bluesky @GreatFartsofLit
 
 # Events
+Let's hang out IRL! I work remotely and like to go places!
 <figure class="image">
   <img src="/assets/images/2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
  </figure>
