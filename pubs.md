@@ -37,7 +37,7 @@ Dogs have been living and working alongside humans for thousands of years, and o
 
 <br>
 <figure class="image">
-  <img src="/assets/images/fig 10. Cusco shirt dog.jpg" alt="Color photograph of Elizabeth Zaleski" width="500"/>
+  <img src="/assets/images/fig 10. Cusco shirt dog.jpg" alt="Color photograph of Elizabeth Zaleski" width="475"/>
  </figure>
  <figcaption>My favorite shirt-wearing Cusco dog. Photograph by the author.</figcaption>
 
@@ -46,7 +46,10 @@ Dogs have been living and working alongside humans for thousands of years, and o
 My friend Kelsey, an ecologist, agrees. She lived in Cusco for several years and fell in love with a dog at her field site outside the city. When she first encountered Karina in the mountains, she observed that Andean dogs ate copious amounts of feces, primarily the droppings of baby alpacas, which are rich in excreted milk proteins. But Kelsey also had difficulty keeping Karina from digging up human latrines, which earned her a nickname, bestowed affectionately: Boca Sucia.
 
 <br>
-
+<figure class="image">
+  <img src="/assets/images/fig 11. Cusco blood river.jpeg" alt="A dog stands in a red river" width="475"/>
+ </figure>
+ <figcaption>My favorite shirt-wearing Cusco dog. Photograph by the author.</figcaption>
 A Peruvian dog stands in a river of blood downstream from a slaughterhouse. Photograph by Kelsey Reider.
 
 <br>
