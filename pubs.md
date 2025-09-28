@@ -63,5 +63,5 @@ My friend Kelsey, an ecologist, agrees. She lived in Cusco for several years and
  <figcaption>Boca Sucia on the prowl. Photograph by Kelsey Reider.</figcaption>
 
 <br>
-<br>
+
 Once, a woman I knew only tangentially, who owned a few huskies, passed a Chihuahua on the sidewalk. After the owner was out of earshot, she quipped, “That’s a cruel thing to do to a wolf.” Maybe, maybe not. The wolf, it seems, may have been complicit in its own transformation, with results neither human nor animal could have dreamed. The story of the trash dog can be read in multiple ways, in ways that demean dogs or in ways that unsettle the truism “There’s no such thing as bad dogs, only bad dog owners,” which reduces dogs to utter behaviorism. If dogs played a part in their own domestication, Donna Haraway argues, this fact has consequences for our notions of dominion, our Western belief that humans subdued animals in unilateral fashion. A different story reshuffles agency, casts multiple actors in these events: cue Karina and her shit-eating grin.
