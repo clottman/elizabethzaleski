@@ -36,6 +36,7 @@ Do you want to read even **more** of my thoughts about dogs? This section didn't
 Dogs have been living and working alongside humans for thousands of years, and our modern American version of dogdom is just one of many at play across the globe. In Cusco, Peru, dog ownership is casual, and huge packs of friendly stray dogs are the rule. As strays are sometimes poisoned, city dwellers have a custom of adorning their pets not with a collar but a shirt. When I visited Peru, the dogs of Cusco were endlessly fascinating to me because they were ubiquitous, untethered, and evidently quite happy. Of course this situation is not all roses, but Coppinger suggests these loosely affiliated, scavenging packs, living somewhat at the edges of human society, are the true modern version of the primordial dog. He thinks it unlikely that humans nabbed and restrained wolves and subsequently pacified them over generations. Rather, wolves with short flight tolerances beget wolves with shorter flight tolerances and over time domesticated themselves at the edge of our midden heap.
 
 <br>
+
 <figure class="image">
   <img src="/assets/images/fig 10. Cusco shirt dog.jpg" alt="Color photograph of Elizabeth Zaleski" width="475"/>
  </figure>
@@ -47,13 +48,15 @@ My friend Kelsey, an ecologist, agrees. She lived in Cusco for several years and
 
 <br>
 <figure class="image">
-  <img src="/assets/images/fig 11. Cusco blood river.jpeg" alt="A dog stands in a red river" width="475"/>
+  <img src="/assets/images/fig 11. Cusco blood river.jpg" alt="A dog stands in a red river" width="475"/>
  </figure>
- <figcaption>My favorite shirt-wearing Cusco dog. Photograph by the author.</figcaption>
-A Peruvian dog stands in a river of blood downstream from a slaughterhouse. Photograph by Kelsey Reider.
+ <figcaption>A Peruvian dog stands in a river of blood downstream from a slaughterhouse. Photograph by Kelsey Reider.</figcaption>
 
 <br>
-
+<figure class="image">
+  <img src="/assets/images/fig 12. Karina.JPG" alt="A dog stands in a red river" width="475"/>
+ </figure>
+ <figcaption>A Peruvian dog stands in a river of blood downstream from a slaughterhouse. Photograph by Kelsey Reider.</figcaption>
 Boca Sucia on the prowl. Photograph by Kelsey Reider.
 
 <br>
