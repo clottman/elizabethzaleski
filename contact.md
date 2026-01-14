@@ -19,7 +19,7 @@ Prologue Books will be there to sell copies of my book, which I will happily per
 
 <b>March 4-7</b>, I will be at AWP in Baltimore in dual capacities: as OSU Press staff and as a Belt author. Stay tuned.
 
-<b>April 7, 6:30 p.m.</b>, Prologue Books' new location (787 N High, Columbus). In conversation with the inimitable <a href="https://www.allisondavispoetry.com/">Allison Davis</a>. about work, women, and Ohio. Details to come.
+<b>April 7, 6:30 p.m.</b>, Prologue Books' new location (787 N High, Columbus). In conversation with the inimitable <a href="https://www.allisondavispoetry.com/">Allison Davis</a> about work, women, and Ohio. Details to come.
 
 <figure class="image">
   <img src="/assets/images/2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
