@@ -10,16 +10,23 @@ layout: default.njk
  I'm also on Bluesky @GreatFartsofLit
 
 # Events
-Join me for my launch!
+Join me for my book launch!
 
-Friday, February 27, 2026
+<b>Friday, February 27, 2026</b>
 Barley's Brewing Company, 467 N High St, Columbus OH, downstairs
 6 p.m. to sometime before 10 p.m.
-Free entrance, free food, unfree drinks
+Free entry, free food, unfree drinks
 
-Staff from Prologue Books will be on site to sell copies of my book, which I will happily personalize for you with (1) unique but illegible inscriptions in my own handwriting, (2) less personalized but still fun sentiments in stamp form, or (3) traces of my DNA.
+Prologue Books will be there to sell copies of my book, which I will happily personalize for you with (1) unique but illegible inscriptions in my own handwriting, (2) less personalized but still fun sentiments in stamp form, or (3) traces of my DNA. I'll also do my best to answer urgent audience questions drawn from a hat.
 
-I'll also do my best to answer urgent audience questions drawn from a hat and would really love to run through a high-five tunnel of cheering fans at some point in the evening.
+
+March 4-7
+I will be at AWP in Baltimore in dual capacities: as OSU Press staff and as a Belt author. Stay tuned.
+
+April 7, 6:30 p.m.
+Prologue Books' new location (787 N High, Columbus)
+In conversation with the inimitable Allison Davis about work, women, and Ohio.
+
 <figure class="image">
   <img src="/assets/images/2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
  </figure>
