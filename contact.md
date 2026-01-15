@@ -17,7 +17,7 @@ Join me for my book launch!
 Prologue Books will be there to sell copies of my book, which I will happily personalize for you with (1) unique but illegible inscriptions in my own handwriting, (2) less personalized but still fun sentiments in stamp form, or (3) traces of my DNA. I'll also do my best to answer urgent audience questions drawn from a hat.
 
 
-<b>March 4-7</b>, I will be at AWP in Baltimore in dual capacities: as OSU Press staff and as a Belt author. Stop by the OSU Press table or come to Belt's happy hour Thursday evening, 7:30 to 9 at Checkerspot Brewing: https://conference.awpwriter.org/offsite_events_schedule.cfm
+<b>March 4-7</b>, I will be at AWP in Baltimore in dual capacities: as OSU Press staff and as a Belt author. Stop by the OSU Press table or come to Belt's happy hour <a href="https://conference.awpwriter.org/offsite_events_schedule.cfm">"Thursday evening," 7:30 to 9 at Checkerspot Brewing.
 
 <b>April 7, 6:30 p.m.</b>, Prologue Books' new location (787 N High, Columbus). In conversation with the inimitable <a href="https://www.allisondavispoetry.com/">Allison Davis</a> about work, women, and Ohio. Details to come.
 
