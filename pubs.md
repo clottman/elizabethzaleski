@@ -29,7 +29,7 @@ layout: default.njk
 # Free ideas you can steal (FIY) and calls for collaboration (CFC)
 <b>CFC:</b> Are you a bra manufacturer? Do you want to create the biggest thing in boobs since the Wonderbra? Let's work together. Okay, so we all know that breasts are rarely symmetrical. "They're sisters, not twins," the saying goes. But what if your boobs, like mine, are more like second cousins once removed? The only options are to split the difference or to buy for the bigger side and stuff the other one. Both of these options suck. But check this out: Some bras clasp in back, and some bras clasp in front. The necessary technology already exists! All we need to do is make bra <i>halves</i> so that you can order two different cup sizes with the same band width and then connect them ON BOTH SIDES. I'm telling you, this is a million-dollar idea.
 
-<b>CFC:</b> I am the future author of the board book *"Waiting for Godot" for Babies*, set to be released to the public in 2049, when *Godot* enters the public domain. Wanna be my illustrator?
+<b>CFC:</b> I am the future author of the board book *"Waiting for Godot" for Babies*, set to be released to the public in 2049, when *Godot* enters the public domain and I turn 66. Wanna be my illustrator?
 
 # Bonus material
 Do you want to read even **more** of my thoughts about dogs? This section didn't make the final cut for "All the Dead Dogs," but Karina and her Peruvian pals deserve an audience:
