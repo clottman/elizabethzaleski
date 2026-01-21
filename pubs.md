@@ -27,7 +27,7 @@ layout: default.njk
 - Big Dickens List. I bought the domain name bigdickenslist.com with the goal of creating and publishing Dickens-themed listicles, but part of the problem with Dickens is that by the time you've finished the fifteenth novel, it's hard to remember what happened in the previous fourteen. Maybe someday it will turn into something.
 
 # Free ideas you can steal (FIY) and calls for collaboration (CFC)
-<b>FIY:</b> Beside every Dollar General in America, there should be a food truck or small restaurant called "It's Food!" that seels very cheap, very healthy, very yummy food. Rice and beans, baby! 
+<b>FIY:</b> Beside every Dollar General in America, there should be a food truck or small restaurant called "It's Food!" that sells very cheap, very healthy, very yummy food. Rice and beans, baby! 
 
 <b>CFC:</b> Are you a bra manufacturer? Do you want to create the biggest thing in boobs since the Wonderbra? Let's work together. Okay, so we all know that breasts are rarely symmetrical. "They're sisters, not twins," the saying goes. But what if your boobs, like mine, are more like second cousins once removed? The only options are to split the difference or to buy for the bigger side and stuff the other one. Both of these options suck. But check this out: Some bras clasp in back, and some bras clasp in front. The necessary technology already exists! All we need to do is make bra <i>halves</i> so that you can order two different cup sizes with the same band width and then connect them ON BOTH SIDES. I'm telling you, this is a million-dollar idea.
 
