@@ -14,7 +14,7 @@ Join me for my book launch!
 
 <b>Friday, February 27, 2026</b>, Barley's Brewing Company, 467 N High St, Columbus OH, downstairs, 6 p.m. to sometime before 10 p.m. Free entry, free food, unfree drinks.
 
-Prologue Bookshop will be there to sell copies of my book, which I will happily personalize for you with (1) unique but illegible inscriptions in my own handwriting, (2) less personalized but still fun sentiments in stamp form, or (3) traces of my DNA. I'll also do my best to answer urgent audience questions drawn from a hat. You can preorder books from Prologue [here](https://prologuebookshop.com/book/9781540270146). You are welcome to RSVP through either contact above.
+Prologue Bookshop will be there to sell copies of my book, which I will happily personalize for you with (1) unique but illegible inscriptions in my own handwriting, (2) less personalized but still fun sentiments in stamp form, or (3) traces of my DNA. I'll also do my best to answer urgent audience questions drawn from a hat. You can preorder books from Prologue [here](https://prologuebookshop.com/book/9781540270146), and you are welcome to RSVP through either contact above.
 
 
 <b>March 4-7</b>, I will be at AWP in Baltimore in dual capacities: as OSU Press staff and as a Belt author. Stop by the OSU Press table or come to Belt's happy hour <a href="https://conference.awpwriter.org/offsite_events_schedule.cfm">Thursday evening,</a> 7:30 to 9 at Checkerspot Brewing!
