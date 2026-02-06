@@ -36,4 +36,4 @@ This book blew my mind. Elizabeth Zaleski’s intellect is a wondrous thing—as
 Phenomenal. I was sad when it was over. **—Mom**
 
 # Errata:
-Two errors have been discovered . . . so far. The first person who is not my dad to email me identifying them will win $20. They are not subtle (a misspelled word and an extra word).
+Two errors have been discovered . . . so far. The first person who is not my dad to email me identifying them will win $20. They are not subtle (a misspelled word and an extra word). If this note is still up, the prize has not been claimed!
