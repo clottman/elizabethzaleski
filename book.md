@@ -29,7 +29,7 @@ Yes. It's better than most books.
 
 One of [12 Must Read Books of February 2026](https://chireviewofbooks.com/2026/02/02/12-must-read-books-of-february-2026/) according to the **Chicago Review of Books** (!)
 
-I read an advanced copy of Elizabeth Zaleski's *The Trouble with Loving Poets and Other Essays on Failure* based on a single newsletter sent out from her publisher at Belt, Anne Trubek. It's a delight to pick up a book by a writer totally unknown to you and finish it in a single day. **—Austin Kleon, NYT-bestselling author of Steal Like an Arist**
+I read an advanced copy of Elizabeth Zaleski's *The Trouble with Loving Poets and Other Essays on Failure* based on a single newsletter sent out from her publisher at Belt, Anne Trubek. It's a delight to pick up a book by a writer totally unknown to you and finish it in a single day. **—Austin Kleon, NYT-bestselling author of *Steal Like an Arist***
 
 [Zaleski's] collection of essays on failure is charming and frank and disproves my hypothesis that publishers only release personal essay collections by the world’s dullest people. Zaleski: not dull! An oddball from rural Ohio with a crazy family who writes what I always wanted “alt lit” to be: the lucid prose of an original mind living an unconventional life. . . . It is the type of book destined to be ignored by the few remaining reviewing organs, and everything about it is hostile to any conceivable algorithm. So, vote with your dollars! **Molly Young, former book critic for the NYT, book recommender extraordinaire, and maker of many cool things**
 
