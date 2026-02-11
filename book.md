@@ -42,4 +42,6 @@ Funny and introspective. . . . Wit and intelligence shine through the prose. **â
 Phenomenal. I was sad when it was over. **â€”Mom**
 
 # Errata:
-Two errors have been discovered . . . so far. The first person who is not my dad to email me identifying them will win $20. They are not subtle (a misspelled word and an extra word). If this note is still up, the prize has not been claimed!
+Four errors have been discovered . . . so far. See if you can find them.
+
+Also, my mom objects to the phrase "lost the house" on page 36, which might imply the house was foreclosed on. It was not.
