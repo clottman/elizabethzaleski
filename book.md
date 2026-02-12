@@ -43,5 +43,3 @@ Phenomenal. I was sad when it was over. **—Mom**
 
 # Errata:
 Four errors have been discovered . . . so far. See if you can find them.
-
-Also, my mom objects to the phrase "lost the house" on page 36, which might imply the house was foreclosed on. It was not.
