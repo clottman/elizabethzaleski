@@ -23,7 +23,7 @@ As Zaleski writes, “If you’ll bear with me, we’re going to get a bit techn
 
 # But is it any good?
 
-Yes. It's better than most books.
+Yes. It’s better than most books.
 
 # Heaps of praise:
 
