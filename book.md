@@ -11,7 +11,7 @@ layout: default.njk
 
 # How to buy this book:
 
-You can order it from my publisher [here](https://beltpublishing.com/products/the-trouble-with-loving-poets) (note that to complete the order, you’ll be routed to the site for Arcadia Publishing, which is Belt’s parent company). Or from Bookshop.org [here](https://bookshop.org/p/books/the-trouble-with-loving-poets-and-other-essays-on-failure/e7a6dd35a31b3fc6?ean=9781540270146&next=t&). Or from Columbus’s Prologue Bookshop [here](https://prologuebookshop.com/book/9781540270146). Or from Francie and Finch in Lincoln [here](https://francieandfinch.indielite.org/book/9781540270146). Or, if you must, from that other retailer [here](https://www.amazon.com/Trouble-Loving-Poets-Essays-Failure/dp/1540270149).
+You can order it from my publisher [here](https://beltpublishing.com/products/the-trouble-with-loving-poets) (note that to complete the order, you’ll be routed to the site for Arcadia Publishing, which is Belt’s parent company). Or from Bookshop.org [here](https://bookshop.org/p/books/the-trouble-with-loving-poets-and-other-essays-on-failure/e7a6dd35a31b3fc6?ean=9781540270146&next=t&). Or from Columbus’s Prologue Bookshop [here](https://prologuebookshop.com/book/9781540270146). Or from Francie and Finch in Lincoln [here](https://francieandfinch.indielite.org/book/9781540270146). Or from Barnes & Noble [here](https://www.barnesandnoble.com/w/the-trouble-with-loving-poets-and-other-essays-on-failure-elizabeth-zaleski/1147750074). Or, if you must, from that other retailer [here](https://www.amazon.com/Trouble-Loving-Poets-Essays-Failure/dp/1540270149).
 
 # What this book is about:
 
