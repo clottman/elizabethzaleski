@@ -15,7 +15,7 @@ layout: default.njk
 
 <b>Tuesday, April 7,</b> 6:30 p.m., Prologue Bookshop's new location (787 N High, Columbus). In conversation with the inimitable <a href="https://www.allisondavispoetry.com/">Allison Davis</a> about work, women, and Ohio. You can register <a href="https://prologuebookshop.com/event/2026-04-07/allison-pitinii-davis-elizabeth-zaleski-author-event">here</a>.
 
-**Saturday, April 18,** 4:30 p.m., I'll be at Francie & Finch Bookshop in Lincoln, Nebraska. If you'd like to, you can pick up a copy before the event or at the event [here](https://francieandfinch.indielite.org/book/9781540270146).
+**Saturday, April 18,** 4:30 p.m., I'll be at [Francie & Finch Bookshop](https://francieandfinch.com/event/visiting-author-elizabeth-zaleski-the-trouble-with-loving-poets-and-other-essays-on-failure/) in Lincoln, Nebraska. If you'd like to, you can pick up a copy before the event or at the event [here](https://francieandfinch.indielite.org/book/9781540270146).
 
 <figure class="image">
   <img src="/assets/images/2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
