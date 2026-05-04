@@ -10,12 +10,9 @@ layout: default.njk
  I'm also on Bluesky @GreatFartsofLit
 
 # Events
+MANY thanks to the businesses who helped me celebrate my book this winter and spring. These include Barley's Brewing Company in Columbus, Prologue Bookshop in Columbus, Literary Cleveland, Loganberry Books in Cleveland, and Francie & Finch Bookshop in Lincoln, NE. Thanks and cheers to everyone who joined me at parties, readings, and conversations.
 
-**Wednesday, March 18**, 7 p.m., I'll be reading at an event hosted by Literary Cleveland with poet Kortney Morrow (author *Run It Back*) and Loung Ung (author of *First They Killed My Father*). The event will also honor the late great Toni Morrison and will be held at at [Loganberry Books](https://www.litcleveland.org/events-programs/plum-city-reading-mar-2026) in Cleveland. (THIS WAS SO FUN.)
-
-<b>Tuesday, April 7,</b> 6:30 p.m., Prologue Bookshop's new location (787 N High, Columbus). In conversation with the inimitable <a href="https://www.allisondavispoetry.com/">Allison Davis</a> about work, women, and Ohio. You can register <a href="https://prologuebookshop.com/event/2026-04-07/allison-pitinii-davis-elizabeth-zaleski-author-event">here</a>.
-
-**Saturday, April 18,** 4:30 p.m., I'll be at [Francie & Finch Bookshop](https://francieandfinch.com/event/visiting-author-elizabeth-zaleski-the-trouble-with-loving-poets-and-other-essays-on-failure/) in Lincoln, Nebraska. If you'd like to, you can pick up a copy before the event or at the event [here](https://francieandfinch.indielite.org/book/9781540270146).
+**In July**, I'll be a featured author at the always-steamy Columbus Books Festival. This is an enormous event and has something for everyone. I'll post more details about where I'll be when nearer the date, but I should be around for most of the festival the 10th through 12th.
 
 <figure class="image">
   <img src="/assets/images/2025Elizabeth02Crop.jpg" alt="Color photograph of Elizabeth Zaleski"/>
