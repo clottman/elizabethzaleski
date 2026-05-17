@@ -9,7 +9,7 @@ layout: default.njk
 - "<a href="https://hippocampusmagazine.com/2017/02/the-trouble-with-loving-poets-by-elizabeth-zaleski/">The Trouble with Loving Poets</a>," originally published at <i>Hippocampus</i>
 - "<a href="https://www.thenormalschool.com/blog/2018/9/17/take-your-medicine-by-elizabeth-zaleski-illustrations-by-kevin-abt-chad-miller">Take Your Medicine</a>," published at <i>The Normal School</i>. My writing persona is like Allie Brosh with half the talent and Cheryl Strayed with half the fortitude (I can't draw, and I overheat very easily), which is why this graphic essay, about antidepressants, contains illustrations drawn by people who are not me.
 - A <a href="https://largeheartedboy.com/2026/03/29/elizabeth-zaleskis-book-notes-music-playlist-for-her-essay-collection-the-trouble-with-loving-poets/">playlist and listicle</a> to accompany *The Trouble with Loving Poets* at Largehearted Boy.
-- "Nonarbitrary Style Points in Citations: When Departures Affect Functionality," a blog post for *Feeding the Elephant* (a scholarly publishing forum) in which I complain about trends in <a href="https://networks.h-net.org/group/discussions/20149208/nonarbitrary-style-points-citations-when-departures-affect-functionality">citation practices</a>.
+- <a href="https://networks.h-net.org/group/discussions/20149208/nonarbitrary-style-points-citations-when-departures-affect-functionality">"Nonarbitrary Style Points in Citations: When Departures Affect Functionality,"</a> a blog post for *Feeding the Elephant* (a scholarly publishing forum) in which I complain about trends in citation practices. Sounds riveting, doesn't it? I made up a bunch of goofy book titles to help.
 
 # Print publications
 
